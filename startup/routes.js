@@ -29,9 +29,9 @@ module.exports = function (app) {
   app.use("/api/v1/quotations", quotationRouter);
   app.use("/api/v1/auth", authRouter);
 
-  // app.get("/", (req, res, next) =>{
-  //   res.json({status:true,message:"Noemdek health check passed ✅"})
-  // })
+  app.get("/", (req, res, next) =>{
+    res.json({status:true,message:"Noemdek health check passed ✅"})
+  })
 
   
 
