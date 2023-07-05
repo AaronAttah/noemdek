@@ -9,6 +9,10 @@ operations team to aid their processes.
 # Tools, Frameworks, and Packages
 Node.js, Express.js, Bcrypt, Multer, Winston, Joi, Mongoose, MongoDB, JWT, AWS-S3 bucket e.t.c
 
+# LINKS
+- API-Doc: https://documenter.getpostman.com/view/16602053/2s93zCaMLV
+- deployed baseURL: https://noemdek.onrender.com/api/v1/
+
 # ARCHITECTURE
 - I used the layered architecture for the codebase which allows us to have separation of concerns(modules) i.e the data logic being separated from the business logic
 
