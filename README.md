@@ -1,9 +1,8 @@
 # noemdek
 Two tasks: 
-A. A company requires you to build a functional scheduling page for its transport
-team that allows the manager to see drivers'/vehicles' schedules at a
+- A company requires you to build a functional scheduling page for its transport team that allows the manager to see drivers'/vehicles' schedules at a
 glance.
-B. A company requires you to build a useful quotation page for its oil & gas
+- A company requires you to build a useful quotation page for its oil & gas
 operations team to aid their processes.
 
 # Tools, Frameworks, and Packages
