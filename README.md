@@ -10,8 +10,7 @@ Node.js, Express.js, Bcrypt, Multer, Winston, Joi, Mongoose, MongoDB, JWT, AWS-S
 
 # LINKS
 - API-Doc: https://documenter.getpostman.com/view/16602053/2s93zCaMLV
-- deployed link: https://noemdek.onrender.com
-- deployed baseURL: https://noemdek.onrender.com/api/v1/
+- deployed baseURL: https://noemdek.onrender.com
 
 # ARCHITECTURE
 - I used the layered architecture for the codebase which allows us to have separation of concerns(modules) i.e. the data logic being separated from the business logic.
