@@ -6,14 +6,15 @@ glance.
 operations team to aid their processes.
 
 # Tools, Frameworks, and Packages
-Node.js, Express.js, Bcrypt, Multer, Winston, Joi, Mongoose, MongoDB, JWT, AWS-S3 bucket e.t.c
+Node.js, Express.js, Bcrypt, Multer, Winston, Joi, Mongoose, MongoDB, JWT, AWS-S3 bucket, Postman etc.
 
 # LINKS
 - API-Doc: https://documenter.getpostman.com/view/16602053/2s93zCaMLV
+- deployed link: https://noemdek.onrender.com
 - deployed baseURL: https://noemdek.onrender.com/api/v1/
 
 # ARCHITECTURE
-- I used the layered architecture for the codebase which allows us to have separation of concerns(modules) i.e the data logic being separated from the business logic
+- I used the layered architecture for the codebase which allows us to have separation of concerns(modules) i.e. the data logic being separated from the business logic.
 
 # WHY MongoDB?
 Task A: Building a scheduling page for the transport team
@@ -31,4 +32,4 @@ Task B: Building a quotation page for the oil & gas operations team
 In both tasks, MongoDB's flexibility, scalability, querying capabilities, and integration with Node.js will enable you to build efficient and responsive applications that meet the specific needs of the transport team's scheduling page and the oil & gas operations team's quotation page.
 
 # ISSUES/Challenge
-- There was no clear definition of data types for the input fields of the Figma-image provided, so as to know if a field is to take strings or numbers e.t.c
+- There was no clear definition of data types for the input fields of the Figma-image provided, to know if a field is to take strings or numbers e.t.c
